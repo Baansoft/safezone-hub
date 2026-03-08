@@ -1,0 +1,11 @@
+{
+    "version": "1.0.1",
+    "release_date": "2026-03-08",
+    "min_version": "1.0.0",
+    "downloads": {
+      "windows": "https://github.com/Baansoft/safezone-hub/releases/download/prod/SafeZone-1.0.1-win64-setup.exe",
+      "macos": "...",
+      "linux": "..."
+    },
+    "changelog": "- Fix: ...\n- New: ..."
+  }

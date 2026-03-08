@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.2",
     "release_date": "2026-03-08",
     "min_version": "1.0.0",
     "downloads": {
@@ -10,6 +10,7 @@
     "changelog": "- Fix: update functions...\n- New: update function testing..."
 
   }
+
 
 
 

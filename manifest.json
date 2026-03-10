@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "release_date": "2026-03-10",
     "min_version": "1.0.0",
     "downloads": {
@@ -7,9 +7,10 @@
       "macos": "...",
       "linux": "..."
     },
-    "changelog": "- Fix: update some functions...\n- New: improved performance"
+    "changelog": "- Fix: update some functions...\n- New: create log for telegram send nofitication"
 
   }
+
 
 
 
